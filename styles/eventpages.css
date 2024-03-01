@@ -1,0 +1,344 @@
+.Event_sidebar_1 {
+  background: #eaecec;
+  padding: 10px;
+}
+
+.Event_sidebar_2 {
+  background: #ffffff;
+  border-bottom: 2px solid #90add8;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.Event_sidebar_3 {
+  background: #ffffff;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.about_video_2 {
+  border: 8px solid #88b6de;
+  padding: 0;
+}
+
+.event_wrap_main {
+  background: #fff;
+  border-bottom: 2px solid #88b6de;
+}
+
+.upcoming_events_wrap {
+  font-size: 12pt;
+  float: right;
+  font-family: "Maven Pro", sans-serif !important;
+  color: #90add8;
+  margin: auto;
+  font-weight: 500;
+}
+
+.react-tabs__tab {
+  display: inline-block;
+  border: 1px solid transparent !important;
+  border-bottom-color: transparent;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom: none;
+  bottom: -3px !important;
+  position: relative;
+  list-style: none;
+  padding: 8px 10px !important;
+  cursor: pointer;
+  font-size: 13pt !important;
+  color: #919090 !important;
+}
+
+.react-tabs__tab--selected {
+  background: #90add8 !important;
+  border-color: #fff !important;
+  color: white !important;
+  border-radius: 0 !important;
+  font-family: "Maven Pro", sans-serif !important;
+}
+
+.react-tabs__tab-list {
+  border-bottom: 2px solid #90add8 !important;
+  margin: 0 0 10px;
+  padding: 0;
+  font-family: "Maven Pro", sans-serif !important;
+}
+
+.color_heading {
+  color: #f26522 !important;
+}
+
+.fst_event span {
+  float: right;
+}
+
+.fst_event span {
+  color: #f26522;
+}
+
+.fst_event {
+  color: rgb(99, 110, 109);
+  font-size: 12pt;
+  line-height: 30px;
+}
+
+.on_going_events {
+  background: #90add8;
+  width: 25%;
+  padding: 8px 15px;
+  text-align: center;
+}
+
+.on_going_events p {
+  font-size: 13pt;
+  color: #fff;
+  margin: auto;
+  font-family: "Maven Pro", sans-serif !important;
+}
+
+.has-search .form-control {
+  border-radius: 0px;
+  color: #9f9e9e;
+  font-size: 13pt;
+  border: 1px solid #bfbcbc;
+}
+
+.has-search .form-control-feedback {
+  position: relative;
+  top: 42px;
+  left: 90%;
+  font-size: 20px;
+  color: #9f9e9e;
+}
+
+.event_categories_wrap {
+  font-size: 13.03pt;
+  color: #8fadd9;
+  font-family: "Maven Pro", sans-serif;
+  padding-top: 10px;
+}
+
+.event_categories_list {
+  font-size: 13pt;
+  color: #919191;
+  font-family: "Maven Pro", sans-serif;
+  line-height: 30px;
+  list-style-type: square;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.react-calendar__navigation {
+  display: flex;
+  height: 42px;
+  margin-bottom: 1em;
+  background: #45be9d !important;
+  color: #fff !important;
+  font-size: 11.92pt !important;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.react-calendar {
+  width: 350px;
+  max-width: 100%;
+  background: white;
+  border: 1px solid #a0a096;
+  line-height: 1.125em;
+  margin-top: 50px !important;
+}
+
+.d-flex_wrap {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin-bottom: 30px;
+}
+
+.d-flex_wrap li {
+  font-size: 19pt;
+  color: #2373ba;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.square_wrap {
+  font-size: 12pt;
+  color: #73bf44;
+  padding: 0px 20px 0px;
+}
+
+.get_involved_sidebar {
+  background: #ffffff;
+  border-bottom: 2px solid #90add8;
+  padding-bottom: 40px;
+}
+
+.fst_event_involved_sidebar {
+  color: rgb(99, 110, 109);
+  font-size: 12pt;
+  line-height: 30px;
+  padding: 40px 30px 40px;
+  background-image: url("/bg_main_3.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.get_involved_heading {
+  font-size: 21pt;
+  color: #73bf44;
+  font-family: "Maven Pro", sans-serif;
+  text-transform: uppercase;
+}
+
+.get_involved_p {
+  font-size: 16pt;
+  color: rgb(99, 110, 109);
+  font-family: "Maven Pro", sans-serif;
+  padding: 10px 40px 10px;
+}
+
+.involved_btn {
+  background: rgb(214, 232, 243);
+  padding: 8px 40px 8px 40px;
+  font-size: 14pt;
+  border-radius: 0px;
+  color: #636e6d !important;
+  border: 2px solid #2373ba;
+}
+
+.voluntee_p {
+  background: #ea7643;
+  width: 25%;
+  padding: 8px 15px;
+  text-align: center;
+}
+
+.voluntee_p p {
+  font-size: 13pt;
+  color: #fff;
+  margin: auto;
+  font-family: "Maven Pro", sans-serif !important;
+}
+
+.partner_p {
+  background: #72bf44;
+  width: 25%;
+  padding: 8px 15px;
+  text-align: center;
+}
+
+.partner_p p {
+  font-size: 13pt;
+  color: #fff;
+  margin: auto;
+  font-family: "Maven Pro", sans-serif !important;
+}
+
+.donation_form {
+  border: 2px solid #d0d0d0;
+  padding: 20px;
+}
+
+.donation_form_text {
+  font-size: 11pt;
+  color: #2f3131;
+  width: 100%;
+  padding: 8px !important;
+  border: 1px solid #d6e8f3 !important;
+  margin-bottom: 10px;
+  background: #e5f4fc;
+}
+
+.label_radio {
+  margin-bottom: 5px;
+  font-weight: 500;
+  font-size: 11pt;
+  color: #979292;
+}
+
+.donate_btn {
+  font-size: 15px;
+  padding: 5px 20px 5px;
+  border-radius: 30px;
+  text-align: center;
+  color: #000;
+  background: #fec43a;
+  border: navajowhite;
+  font-weight: 600;
+}
+
+.fst_wrap {
+  color: rgb(99, 110, 109);
+  font-size: 12.3pt;
+  line-height: 30px;
+  font-family: "Maven Pro", sans-serif;
+  padding: 10px 20px 10px;
+}
+
+.fst_single_event_date {
+  font-size: 15pt;
+  color: rgb(99, 110, 109);
+  font-family: "Maven Pro", sans-serif;
+}
+
+.fst_Single_event {
+  font-size: 21pt;
+  color: #f26522 !important;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.download_event a {
+  font-size: 11pt;
+  color: #777675 !important;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.form-label-1 {
+  font-weight: 600;
+}
+
+.form-check-input {
+  position: absolute;
+  margin-top: 0.3rem;
+  margin-left: 1rem !important;
+}
+.form-check-input2 {
+  position: absolute;
+  margin-top: 0.3rem;
+}
+
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+
+.h-custom {
+  height: calc(100% - 73px);
+}
+
+@media (max-width: 450px) {
+  .h-custom {
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .voluntee_p {
+    background: #ea7643;
+    width: 100%;
+    padding: 8px 15px;
+    text-align: center;
+  }
+
+  .partner_p {
+    background: #72bf44;
+    width: 100%;
+    padding: 8px 15px;
+    text-align: center;
+  }
+}
